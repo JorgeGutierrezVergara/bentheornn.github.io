@@ -71,6 +71,10 @@ p {
   color: crimson;
 }
 
+.asignaturas {
+  font-size: medium;
+}
+
 #header {
   position: fixed;
   z-index: 1000;
